@@ -1,16 +1,16 @@
-### Hi there 👋, I'm Sarthak
+https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png# Hi there 👋, I'm Sarthak
 
-<!--
-**sarthak-dv/sarthak-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer based in India
 
-Here are some ideas to get you started:
+- ⚡️ I love math, programming and problem solving
+- 🌱 I’m currently learning and making projects in Web Development
+- 👯 I’m looking to collaborate on any new Web projects
+- 📫 Find me at:
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/sarthak-srivastava295/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak-dv&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/sarthak-dv/github-readme-stats)
+
+
+
+![Alt Text](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
