@@ -1,4 +1,4 @@
-https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png# Hi there 👋, I'm Sarthak
+# Hi there 👋, I'm Sarthak
 
 I am a full stack developer based in India
 
