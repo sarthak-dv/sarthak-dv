@@ -3,8 +3,8 @@
 I am a full stack developer based in India
 
 - ⚡️ I love math, programming and problem solving
-- 🌱 I’m currently learning and making projects in Web Development
-- 👯 I’m looking to collaborate on any new Web projects
+- 🌱 I’m currently learning and making projects in Data Analytics.
+- 👯 I am experienced in Java, Python, C/C++ programming languages with a good understanding of DSA and OOPs.
 - 📫 Find me at:
   - 🏢 [LinkedIn](https://www.linkedin.com/in/sarthak-srivastava295/)
 
